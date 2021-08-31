@@ -8,6 +8,6 @@ $ stock-ticker.py AAPL
 ```
 Which will return:
 
-![Example output](images/screenshot.png)
+![Example output](../assets/screenshot.png?raw=true)
 
 Makefile by default installs to the user's `.local/bin`, adjust to taste.
