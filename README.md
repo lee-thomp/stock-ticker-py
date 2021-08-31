@@ -4,7 +4,7 @@ Made for myself to add to my `.bashrc`.
 Requires `yfinance`, `sys`, `datetime` modules.
 The script takes a single stock ticker as input, for example:
 ```
-$ stock-ticker AAPL
+$ stock-ticker.py AAPL
 ```
 Which will return:
 
